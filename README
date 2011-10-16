@@ -1,0 +1,4 @@
+Stylesheet for transforming MARC21XML data from ARTO - Reference Database of Finnish Articles 
+to PKP Open Journal System (OJS) Articles & Issues import format.
+
+You'll need XSLT 2.0 compatible stylesheet processor, like Saxon 9.3.
